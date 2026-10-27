@@ -283,3 +283,4 @@ pattern is used: declare the claim, Rook provisions the bucket and creates crede
 
 ### Anpassungen im Training durch Nicky
 Hier sind meine wichtigen Anpassungen zu finden...
+Die neuen Anpassungen sind nur in der Readme.
